@@ -46,7 +46,7 @@ La comunicación entre computadoras se realiza mediante un cable **DB9 hembra-he
 
 | Pantalla de inicio | Chat principal | Opciones y emojis |
 |--------------------|----------------|-------------------|
-| ![Bienvenida](assets/interfaz_bienvenida.png) | ![Chat principal](assets/chat_principal.png) | ![Opciones](assets/emojis.png) |
+| ![Bienvenida](assets/interfaz_bienvenida.JPG) | ![Chat principal](assets/chat_principal.JPG) | ![Opciones](assets/emojis.JPG) |
 
 *(Imágenes tomadas del informe original del proyecto)*
 
