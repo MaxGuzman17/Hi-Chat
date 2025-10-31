@@ -1,6 +1,6 @@
 # 💬 HI Chat – Comunicación serial en C++ con interfaz gráfica
 
-**Autor:** [Maximiliano Guzmán](https://www.linkedin.com/in/maxiguzman17)  
+**Autor:** [Maximiliano Guzmán](https://www.linkedin.com/in/maximiliano-guzm%C3%A1n-bb3392174)  
 **Lenguaje:** C++  
 **Entorno de desarrollo:** Dev-C++  
 **Librerías:** `winbgim.h`, `windows.h`
