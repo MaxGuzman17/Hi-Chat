@@ -55,7 +55,7 @@ La comunicación entre computadoras se realiza mediante un cable **DB9 hembra-he
 ## 🧾 Documentación
 
 Podés consultar el informe técnico completo del proyecto en:  
-📄 [`/docs/HI_CHAT_Informe.pdf`](docs/HI_CHAT_Informe.pdf)
+📄 [`/Hi-Chat/docs/HI-CHAT_Informe.pdf`](docs/HI_CHAT_Informe.pdf)
 
 ---
 
