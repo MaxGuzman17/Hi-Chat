@@ -92,5 +92,5 @@ Este proyecto está disponible bajo la [licencia MIT](LICENSE).
 
 ---
 
-> ✨ Proyecto desarrollado por [Maximiliano Guzmán](https://www.linkedin.com/in/maxiguzman17).  
+> ✨ Proyecto desarrollado por [Maximiliano Guzmán]([https://www.linkedin.com/in/maxiguzman17](https://www.linkedin.com/in/maximiliano-guzm%C3%A1n-bb3392174)).  
 > Creado con el objetivo de fortalecer mis conocimientos en C++ y comunicación entre software y hardware, hoy forma parte de mi portfolio técnico.
